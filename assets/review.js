@@ -1,6 +1,6 @@
 alert('connected!');
 // apis you can use https://www.programmableweb.com/category/all/apis
-// incase you need to fill text https://doggoipsum.com/
+
 
 var li = document.querySelectorAll('li');
 // we select the li
